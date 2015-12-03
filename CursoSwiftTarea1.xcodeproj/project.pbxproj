@@ -6,10 +6,15 @@
 	objectVersion = 46;
 	objects = {
 
+/* Begin PBXFileReference section */
+		FABF2D7C1C0FDEE300B43451 /* TareaJuegoMemoria.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TareaJuegoMemoria.swift; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
 /* Begin PBXGroup section */
 		FABF2D751C0FDECF00B43451 = {
 			isa = PBXGroup;
 			children = (
+				FABF2D7C1C0FDEE300B43451 /* TareaJuegoMemoria.swift */,
 			);
 			sourceTree = "<group>";
 		};
